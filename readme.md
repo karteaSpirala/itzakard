@@ -49,6 +49,7 @@ Conocer todo el proceso de diseño de una solución tecnológica
 ![Investigación](assets/images/insighs_encuesta_5.png)
 
 ## Solución propuesta a el enunciado problema
+![descripcion_de_la_solucion2](assets/images/descripcion_de_la_solucion0.png)
 ![descripcion_de_la_solucion2](assets/images/descripcion_de_la_solucion2.png)
 ![descripcion_de_la_solucion3](assets/images/descripcion_de_la_solucion3.png)
 
@@ -62,3 +63,11 @@ Conocer todo el proceso de diseño de una solución tecnológica
 
 ## Insights Hotjar
 ![Hotjar](assets/images/hotjar.png)
+
+## Herramientas utilizadas en este proyecto
+* Canva
+* Google Analytics
+* Google Forms
+* Hotjar
+* Materialize
+* Trello 

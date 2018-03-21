@@ -11,4 +11,4 @@ Conocer todo el proceso de diseño de una solución tecnológica
 ¿Quien es el cliente de mi solución, mi consumidor final?
 ¿La idea/oportunidad satisface o genera una necesidad?
 Mapa de empatía
-![Area de oportunidad](assets/images/area_de_oportunidad.png.jpg)
+![Area de oportunidad](assets/images/area_de_oportunidad.png)

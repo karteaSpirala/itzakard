@@ -1,4 +1,6 @@
-## Itzakard proyecto Sprint #1 de la especialización UX
+# ITZAKARD 
+## Landing page final
+![ITZ A KARD](https://user-images.githubusercontent.com/32881427/38582687-3d704844-3cd6-11e8-962e-16e2e0f542f2.png)
 
 ## Reto:
 Entender y optimizar el journey de tomar un camión de CDMX-Cuernavaca.
